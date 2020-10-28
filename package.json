@@ -1,0 +1,25 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "employeedb.js",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo/error",
+    "start": "node employeedb.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akirillychev/Employee-Tracker.git"
+  },
+  "author": "Andrew Kirillychev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akirillychev/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/akirillychev/Employee-Tracker#readme"
+}
